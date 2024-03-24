@@ -79,13 +79,13 @@
       font-size: 40px;
       text-align: center;
       font-weight: bold;
-      color: rgb(16, 0, 109);
+      color: rgb(0, 0, 0);
     }
     .text1{
       font-family:'courier';
       font-size: 22px;
       font-weight: bolder;
-      color: rgb(14, 0, 94);
+      color: rgb(0, 0, 0);
       text-align: center;
       padding-left: 10%;
       padding-right: 10%;
@@ -154,13 +154,13 @@
     font-size: 40px;
     text-align: center;
     font-weight: bold;
-    color: rgb(16, 0, 109);
+    color: rgb(0, 0, 0);
   }
   .text1{
-    font-family: Arial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 22px;
-    color: rgb(14, 0, 94);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding-left: 11%;
     padding-right: 11%;
@@ -228,13 +228,13 @@
       font-size: 40px;
       text-align: center;
       font-weight: bold;
-      color: rgb(16, 0, 109);
+      color: rgb(0, 0, 0);
     }
     .text1{
       font-family: Verdana;
       font-size: 22px;
       font-weight: bolder;
-      color: rgb(14, 0, 94);
+      color: rgb(0, 0, 0);
       text-align: center;
       padding-left: 4%;
       padding-right: 4%;
